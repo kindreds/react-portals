@@ -1,0 +1,12 @@
+@font-face {
+  font-display: swap;
+  font-family: RobotoRegular;
+  src: url(./fonts/Roboto-Regular.ttf);
+}
+
+input,
+label,
+select,
+small {
+  font-family: 'RobotoRegular', sans-serif;
+}
